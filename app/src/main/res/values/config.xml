@@ -1,0 +1,4 @@
+<resources>
+    <string name="pw_endpoint" translatable="false">https://api.circle.com/v1/w3s/</string>
+    <string name="pw_app_id" translatable="false">4cdaeec0-668e-59a6-9294-653301b01e90</string>
+</resources>
